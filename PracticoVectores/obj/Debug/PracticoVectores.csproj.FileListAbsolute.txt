@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\PracticoVectores\bin\Debug\PracticoVectores.exe.config
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\PracticoVectores\bin\Debug\PracticoVectores.exe
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\PracticoVectores\bin\Debug\PracticoVectores.pdb
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\PracticoVectores\obj\Debug\PracticoVectores.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\PracticoVectores\obj\Debug\PracticoVectores.exe
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\PracticoVectores\obj\Debug\PracticoVectores.pdb
