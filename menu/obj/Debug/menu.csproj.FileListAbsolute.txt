@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\menu\bin\Debug\menu.exe.config
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\menu\bin\Debug\menu.exe
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\menu\bin\Debug\menu.pdb
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\menu\obj\Debug\menu.exe
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\menu\obj\Debug\menu.pdb
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\menu\obj\Debug\menu.csprojResolveAssemblyReference.cache

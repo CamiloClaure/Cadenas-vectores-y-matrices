@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\Cadena\bin\Debug\Cadena.exe.config
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\Cadena\bin\Debug\Cadena.exe
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\Cadena\bin\Debug\Cadena.pdb
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\Cadena\obj\Debug\Cadena.exe
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\Cadena\obj\Debug\Cadena.pdb
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\Cadena\obj\Debug\Cadena.csprojResolveAssemblyReference.cache
