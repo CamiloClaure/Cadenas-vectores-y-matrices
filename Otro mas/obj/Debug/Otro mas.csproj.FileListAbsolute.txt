@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\Otro mas\bin\Debug\Otro mas.exe.config
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\Otro mas\bin\Debug\Otro mas.exe
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\Otro mas\bin\Debug\Otro mas.pdb
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\Otro mas\obj\Debug\Otro mas.exe
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\Otro mas\obj\Debug\Otro mas.pdb
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\Otro mas\obj\Debug\Otro mas.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\Otro mas\obj\Debug\Otro_mas.Ejercicio_14.resources
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\Otro mas\obj\Debug\Otro mas.csproj.GenerateResource.Cache

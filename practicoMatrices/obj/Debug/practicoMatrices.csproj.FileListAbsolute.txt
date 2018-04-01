@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\practicoMatrices\bin\Debug\practicoMatrices.exe.config
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\practicoMatrices\bin\Debug\practicoMatrices.exe
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\practicoMatrices\bin\Debug\practicoMatrices.pdb
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\practicoMatrices\obj\Debug\practicoMatrices.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\practicoMatrices\obj\Debug\practicoMatrices.exe
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\Otro mas\practicoMatrices\obj\Debug\practicoMatrices.pdb
